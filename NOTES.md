@@ -7,19 +7,19 @@
 
 ## 📅 Why I Started This
 
-<!-- When I was scrolling in the internet , I found an interesting unsolved a Math question - Collatz Conjecture . Because of my curiosity for math , i started to do some research by myself. So i decided to do some researches and used python to automate my process -->
+ When I was scrolling in the internet , I found an interesting unsolved a Math question - Collatz Conjecture . Because of my curiosity for math , i started to do some research by myself. So i decided to do some researches and used python to automate my process 
 
 ---
 
 ## 🔍 What I Discovered While Coding
 
-<!-- As the computer did accounting it was not that hard to me to see some big numbers and also i took some help from Artificial Intelligence to boost the process and to make it perfect . As the rules of the Question , i completed the code with help of AI and also me like 10 minites and tested so many combination and things which took 1 second to test   -->
+ As the computer did accounting it was not that hard to me to see some big numbers and also i took some help from Artificial Intelligence to boost the process and to make it perfect . As the rules of the Question , i completed the code with help of AI and also me like 10 minites and tested so many combination and things which took 1 second to test   
 
 ---
 
 ## 🧪 Experiments I Ran
 
-<!-- I absolutely from small numbers did try so many numbers and also it was very interesting and mind-blowing process . 
+ I absolutely from small numbers did try so many numbers and also it was very interesting and mind-blowing process . 
 
 | Input | Steps | Peak Value | Observation |
 |-------|-------|------------|-------------|
@@ -35,7 +35,7 @@
 
 ## 📖 What the Research Says
 
-<!-- The Collatz Conjecture was proposed in 1937 by German mathematician **Lothar Collatz**,
+ The Collatz Conjecture was proposed in 1937 by German mathematician **Lothar Collatz**,
 who was 26 years old at the time. Despite nearly 90 years of attempts, no one has proven
 it works for every positive integer — and no counterexample has been found either.
 
@@ -48,7 +48,7 @@ There is no known formula to tell you in advance how many steps a number
 will take, or how high it will peak. Mathematician Paul Erdős said about it:
 *"Mathematics is not yet ready for such problems."*? -->
 
----
+
 
 
 ## 💭 Personal Impressions
