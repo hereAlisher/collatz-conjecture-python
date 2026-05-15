@@ -83,6 +83,6 @@ See [`NOTES.md`](./NOTES.md) for my personal research, observations, and impress
 
 ## 👤 Author
 
-**Alisher** — Cryptology & Software Engineering student
+**Alisher** — Cybersecurity student and Junior pentester
 
 > This project is part of my ongoing journey documenting math and security concepts through code.
