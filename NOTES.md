@@ -53,9 +53,9 @@ will take, or how high it will peak. Mathematician Paul Erdős said about it:
 
 ## 💭 Personal Impressions
 
-<!-- 2 -->
+My impressions after trying to solve and understand this Mathematical question is it is super interesting theory to solve and even if somebody do it he or she is gonna recieve $1,000,000 . And the interesting and found answers for this theory to this like one answer cannot end it is 1 . The reason is if you try 1 it is gonna be in 4 -> 2 -> 1 -> cycle and there is not gonna be answer . And another interesting point is for some numbers which is not same it is gonna take exact same steps to solve it or to finish that is why this is very interesting and also worth absolutely to solve this theory . 
 
 ---
 
 
-*Last updated: <!-- add date -->*
+17/05/2026
